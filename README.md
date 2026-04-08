@@ -79,14 +79,3 @@ terragrunt apply
 
 - Manual: run `terraform plan` and `terraform apply` in a sandbox subscription.
 - Automated: consider integrating `terratest` or a pipeline that runs `terraform validate` and `plan`.
-
-## Contributing
-
-- Create issues or PRs to suggest module improvements or fixes.
-- Keep changes small and add documentation for new inputs/outputs.
-
-## License
-
-This repo does not include a license file by default. Add a `LICENSE` if you want to open-source these modules.
-
----
