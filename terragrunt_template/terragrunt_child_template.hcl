@@ -28,6 +28,11 @@ terraform{
 }
 
 ######## "Merge" is for when you have dependancy , otherwise use normal inputs format.
+# inputs = {
+
+
+#}
+
 inputs = merge (
     lookup(local.parent, "default_inputs", {}),
     {
