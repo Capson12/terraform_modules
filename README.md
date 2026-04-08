@@ -90,7 +90,3 @@ terragrunt apply
 This repo does not include a license file by default. Add a `LICENSE` if you want to open-source these modules.
 
 ---
-
-If you'd like, I can also:
-- Add a `CONTRIBUTING.md` and `LICENSE`.
-- Add example usage for each module.
