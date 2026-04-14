@@ -10,11 +10,6 @@ variable "resource_group_name" {
     type        = string
 }
 
-variable "storage_account_name" {
-    description = "Name of the storage account"
-    type        = string
-}
-
 variable "location" {
     description = "Azure region for resources"
     type        = string
